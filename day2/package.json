@@ -1,0 +1,16 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon order.js",
+    "dev": "node --watch order.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
