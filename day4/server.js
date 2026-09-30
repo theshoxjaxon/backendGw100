@@ -8,6 +8,7 @@ const server = http.createServer((req, res) => {
 
 })
 
+// LIsten Server Codi ishga tshuradi
 server.listen(PORT, (error) => {
-    console.log(`Sizning serveringiz localhost:${PORT} da ishlayapt`)
+    console.log(`Sizning serveringiz http://localhost:${PORT} da ishlayapt`)
 })

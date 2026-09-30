@@ -1,0 +1,333 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "catalog": {
+        "currency": "USD",
+        "books": [
+            {
+                "id": "bk-9780451524935",
+                "isbn13": "978-0451524935",
+                "isbn10": "0451524934",
+                "title": "1984",
+                "subtitle": "A Novel",
+                "authors": [
+                    {
+                        "id": "auth-001",
+                        "name": "George Orwell",
+                        "role": "Author",
+                        "birthYear": 1903,
+                        "deathYear": 1950,
+                        "nationality": "British"
+                    }
+                ],
+                "publication": {
+                    "publisher": "Signet Classics",
+                    "originalPublicationYear": 1949,
+                    "edition": "Reissue Edition",
+                    "publicationDate": "1961-01-01",
+                    "language": "en-US",
+                    "format": "Paperback"
+                },
+                "details": {
+                    "pageCount": 328,
+                    "genres": [
+                        "Dystopian",
+                        "Science Fiction",
+                        "Political Fiction"
+                    ],
+                    "tags": [
+                        "totalitarianism",
+                        "surveillance",
+                        "big-brother",
+                        "classics"
+                    ],
+                    "dimensions": {
+                        "heightCm": 17.1,
+                        "widthCm": 10.6,
+                        "thicknessCm": 2.3,
+                        "weightGrams": 190
+                    }
+                },
+                "pricingAndStock": {
+                    "listPrice": 9.99,
+                    "discountPrice": 7.49,
+                    "inStock": true,
+                    "inventoryCount": 142
+                },
+                "ratings": {
+                    "averageRating": 4.7,
+                    "ratingCount": 128500,
+                    "reviews": [
+                        {
+                            "reviewId": "rev-101",
+                            "user": "lit_critic_99",
+                            "rating": 5,
+                            "comment": "A chillingly prophetic work that remains relevant decades after publication.",
+                            "date": "2026-01-15"
+                        }
+                    ]
+                },
+                "description": "Winston Smith rewrites history for the Ministry of Truth, but secretly hates the Party and dreams of rebellion in a totalitarian world."
+            },
+            {
+                "id": "bk-9780345391803",
+                "isbn13": "978-0345391803",
+                "isbn10": "0345391802",
+                "title": "The Hitchhiker's Guide to the Galaxy",
+                "subtitle": null,
+                "authors": [
+                    {
+                        "id": "auth-002",
+                        "name": "Douglas Adams",
+                        "role": "Author",
+                        "birthYear": 1952,
+                        "deathYear": 2001,
+                        "nationality": "British"
+                    }
+                ],
+                "publication": {
+                    "publisher": "Del Rey",
+                    "originalPublicationYear": 1979,
+                    "edition": "Mass Market Paperback",
+                    "publicationDate": "1995-09-27",
+                    "language": "en-US",
+                    "format": "Paperback"
+                },
+                "details": {
+                    "pageCount": 216,
+                    "genres": [
+                        "Science Fiction",
+                        "Comedy",
+                        "Humor"
+                    ],
+                    "tags": [
+                        "space-travel",
+                        "satire",
+                        "towel",
+                        "arthur-dent"
+                    ],
+                    "dimensions": {
+                        "heightCm": 17.5,
+                        "widthCm": 10.5,
+                        "thicknessCm": 1.8,
+                        "weightGrams": 136
+                    }
+                },
+                "pricingAndStock": {
+                    "listPrice": 8.99,
+                    "discountPrice": 6.99,
+                    "inStock": true,
+                    "inventoryCount": 85
+                },
+                "ratings": {
+                    "averageRating": 4.6,
+                    "ratingCount": 94200,
+                    "reviews": [
+                        {
+                            "reviewId": "rev-102",
+                            "user": "galaxy_farer",
+                            "rating": 5,
+                            "comment": " Hilarious, witty, and essential reading for sci-fi fans.",
+                            "date": "2026-03-02"
+                        }
+                    ]
+                },
+                "description": "Seconds before Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect."
+            },
+            {
+                "id": "bk-9780061120084",
+                "isbn13": "978-0061120084",
+                "isbn10": "0061120081",
+                "title": "To Kill a Mockingbird",
+                "subtitle": null,
+                "authors": [
+                    {
+                        "id": "auth-003",
+                        "name": "Harper Lee",
+                        "role": "Author",
+                        "birthYear": 1926,
+                        "deathYear": 2016,
+                        "nationality": "American"
+                    }
+                ],
+                "publication": {
+                    "publisher": "Harper Perennial Modern Classics",
+                    "originalPublicationYear": 1960,
+                    "edition": "50th Anniversary Edition",
+                    "publicationDate": "2006-05-23",
+                    "language": "en-US",
+                    "format": "Paperback"
+                },
+                "details": {
+                    "pageCount": 336,
+                    "genres": [
+                        "Classic Literature",
+                        "Historical Fiction",
+                        "Coming-of-Age"
+                    ],
+                    "tags": [
+                        "justice",
+                        "alabama",
+                        "atticus-finch",
+                        "scout"
+                    ],
+                    "dimensions": {
+                        "heightCm": 20.3,
+                        "widthCm": 13.5,
+                        "thicknessCm": 2.1,
+                        "weightGrams": 240
+                    }
+                },
+                "pricingAndStock": {
+                    "listPrice": 15.99,
+                    "discountPrice": 11.19,
+                    "inStock": true,
+                    "inventoryCount": 210
+                },
+                "ratings": {
+                    "averageRating": 4.8,
+                    "ratingCount": 154000,
+                    "reviews": [
+                        {
+                            "reviewId": "rev-103",
+                            "user": "bookworm_attic",
+                            "rating": 5,
+                            "comment": "An unforgettable masterpiece on human empathy and social integrity.",
+                            "date": "2025-11-19"
+                        }
+                    ]
+                },
+                "description": "Scout Finch grows up in a small Alabama town while her father, lawyer Atticus Finch, defends a Black man falsely accused of a crime."
+            },
+            {
+                "id": "bk-9780547928227",
+                "isbn13": "978-0547928227",
+                "isbn10": "054792822X",
+                "title": "The Hobbit",
+                "subtitle": "There and Back Again",
+                "authors": [
+                    {
+                        "id": "auth-004",
+                        "name": "J.R.R. Tolkien",
+                        "role": "Author",
+                        "birthYear": 1892,
+                        "deathYear": 1973,
+                        "nationality": "British"
+                    }
+                ],
+                "publication": {
+                    "publisher": "Mariner Books",
+                    "originalPublicationYear": 1937,
+                    "edition": "Official Movie Tie-in",
+                    "publicationDate": "2012-09-18",
+                    "language": "en-US",
+                    "format": "Paperback"
+                },
+                "details": {
+                    "pageCount": 320,
+                    "genres": [
+                        "High Fantasy",
+                        "Adventure",
+                        "Young Adult"
+                    ],
+                    "tags": [
+                        "middle-earth",
+                        "dragons",
+                        "bilbo-baggins",
+                        "quest"
+                    ],
+                    "dimensions": {
+                        "heightCm": 20.8,
+                        "widthCm": 13.7,
+                        "thicknessCm": 2.2,
+                        "weightGrams": 270
+                    }
+                },
+                "pricingAndStock": {
+                    "listPrice": 16.99,
+                    "discountPrice": 12.99,
+                    "inStock": false,
+                    "inventoryCount": 0
+                },
+                "ratings": {
+                    "averageRating": 4.8,
+                    "ratingCount": 112000,
+                    "reviews": [
+                        {
+                            "reviewId": "rev-104",
+                            "user": "shire_reader",
+                            "rating": 5,
+                            "comment": "The gold standard of high fantasy adventure.",
+                            "date": "2026-02-10"
+                        }
+                    ]
+                },
+                "description": "Bilbo Baggins, a comfortable homebody hobbit, is whisked away on an epic quest by Gandalf and thirteen dwarves to reclaim their mountain home from Smaug."
+            },
+            {
+                "id": "bk-9780143105428",
+                "isbn13": "978-0143105428",
+                "isbn10": "0143105426",
+                "title": "Pride and Prejudice",
+                "subtitle": null,
+                "authors": [
+                    {
+                        "id": "auth-005",
+                        "name": "Jane Austen",
+                        "role": "Author",
+                        "birthYear": 1775,
+                        "deathYear": 1817,
+                        "nationality": "British"
+                    }
+                ],
+                "publication": {
+                    "publisher": "Penguin Classics",
+                    "originalPublicationYear": 1813,
+                    "edition": "Penguin Classics Deluxe Edition",
+                    "publicationDate": "2009-08-25",
+                    "language": "en-US",
+                    "format": "Paperback"
+                },
+                "details": {
+                    "pageCount": 480,
+                    "genres": [
+                        "Romance",
+                        "Classic Literature",
+                        "Satire"
+                    ],
+                    "tags": [
+                        "regency",
+                        "elizabeth-bennet",
+                        "mr-darcy",
+                        "social-class"
+                    ],
+                    "dimensions": {
+                        "heightCm": 19.8,
+                        "widthCm": 12.9,
+                        "thicknessCm": 2.8,
+                        "weightGrams": 330
+                    }
+                },
+                "pricingAndStock": {
+                    "listPrice": 17.00,
+                    "discountPrice": 13.50,
+                    "inStock": true,
+                    "inventoryCount": 54
+                },
+                "ratings": {
+                    "averageRating": 4.7,
+                    "ratingCount": 138000,
+                    "reviews": [
+                        {
+                            "reviewId": "rev-105",
+                            "user": "regency_fan",
+                            "rating": 5,
+                            "comment": "Sharp social satire blended perfectly with one of the greatest romance stories ever written.",
+                            "date": "2026-04-01"
+                        }
+                    ]
+                },
+                "description": "Elizabeth Bennet navigates issues of manners, upbringing, morality, and marriage in the landed gentry society of early 19th-century England."
+            }
+        ]
+    }
+}
