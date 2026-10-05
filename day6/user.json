@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "name": "saidasiz",
+            "id": 1,
+            "email": "abubakr@gmail.com"
+        },
+        {
+            "name": "shohruh",
+            "id": 2,
+            "email": "adiba@gmail.com"
+        },
+        {
+            "name": "muslim",
+            "id": 3,
+            "email": "saidamir@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "shoxjaxon",
+            "email": "tursunali@gmail.com"
+        }
+    ]
+}
